@@ -49,12 +49,6 @@ The hackathon environment inspired me to build something meaningful that can sol
 
 ---
 
-## 🌍 Live Demo
-
-👉 (Add your deployed link here)
-
----
-
 ## 📸 Hackathon Experience
 
 🏆 Participated in Devcation Delhi 2026  
